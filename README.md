@@ -30,7 +30,7 @@ This project uses a combination of **supervised and unsupervised machine learnin
   - Risk levels
   - Fraud score histograms
   - Feature importances
-  - Confusion matrices and ROC curves
+  - Confusion matrices
 
 ---
 
