@@ -39,8 +39,7 @@ This project uses a combination of **supervised and unsupervised machine learnin
 - 📌 Prediction Count Plot  
 - 🔍 Fraud Score Distribution by Risk  
 - ⚠️ Risk Level Boxplots  
-- 🎯 Feature Importance from Random Forest and XGBoost  
-- 📈 ROC Curve
+
 
 ---
 
