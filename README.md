@@ -43,9 +43,16 @@ This project uses a combination of **supervised and unsupervised machine learnin
 
 ---
 
+
+
+## Preview of the output
+![Screenshot 2025-06-26 152055](https://github.com/user-attachments/assets/4c39942e-cccc-49ec-81d6-fe7c76382f36)
+
+
 ## 🚀 Streamlit App (Optional)
 
 You can run the Streamlit dashboard using:
 
 ```bash
 streamlit run app.py
+ 
